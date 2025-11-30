@@ -31,4 +31,5 @@ This repository contains the completed take-home assignment for MSBA 503: Analyt
 	University of San Diego
 
 ## Academic Integrity
-	This work is completed and submitted for academic evaluation in MSBA 503. 	Redistribution or reuse outside of course requirements is not authorized.
+	This work is completed and submitted for academic evaluation in MSBA 503.
+	Redistribution or reuse outside of course requirements is not authorized.
