@@ -1,5 +1,5 @@
 # MSBA 503 Object Detection Assignment
-	This repository contains the completed take-home assignment for MSBA 503: Analytics 	Programming II. The objective of this assignment is to apply image analysis and 	object detection techniques using Python and evaluate model results.
+This repository contains the completed take-home assignment for MSBA 503: Analytics Programming II. The objective of this assignment is to apply image analysis and object detection techniques using Python and evaluate model results.
 
 ## Repository Contents
 	| File | Description |
